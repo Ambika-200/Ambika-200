@@ -1,11 +1,8 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Ambika.M
 
 🎓 Diploma in Electronics & Communication  
 💻 Learning Python daily  
-🌱 Goal: Become a Python expert  
+🌱 Goal: Become a Python and Embedded expert  
 📚 Sharing my learning journey on GitHub  
 📬 Email: ambikam812@gmail.com  
 
@@ -22,4 +19,6 @@
 ---
 
 > “Start where you are. Use what you have. Do what you can.” 🌱
+
+
 
