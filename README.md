@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Ambika-200/Ambika-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Ambika.M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Diploma in Electronics & Communication  
+💻 Learning Python daily  
+🌱 Goal: Become a Python expert  
+📚 Sharing my learning journey on GitHub  
+📬 Email: ambikam812@gmail.com  
+
+### 🔧 Current Focus
+- Python basics
+- Daily GitHub practice
+- VS Code, Git, GitHub usage
+
+### 🛠️ Tools I Use
+- Python 🐍
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+> “Start where you are. Use what you have. Do what you can.” 🌱
+
