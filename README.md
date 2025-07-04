@@ -2,7 +2,7 @@
 
 🎓 Diploma in Electronics & Communication  
 💻 Learning Python daily  
-🌱 Goal: Become a Python and Embedded expert  
+🌱 Goal: Become a Python expert 
 📚 Sharing my learning journey on GitHub  
 📬 Email: ambikam812@gmail.com  
 
