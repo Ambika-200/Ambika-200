@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ambika.M
 
-🎓 Diploma in Electronics & Communication  
+🎓 Information Science and Engineering  at RV institute of technology and management 
+
 💻 Learning Python daily  
 🌱 Goal: Become a Python expert 
 📚 Sharing my learning journey on GitHub  
