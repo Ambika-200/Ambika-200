@@ -1,21 +1,24 @@
-# 👋 Hi, I'm Ambika.M
+👋 Hi, I'm Ambika.M
 
-🎓 Information Science and Engineering  at RV institute of technology and management 
+🎓 B.E. in Information Science & Engineering (RVITM, 2nd Year) | Diploma in Electronics & Communication 💻  
+📘 Actively improving Python skills  
+🌱 Goal: Become a Python expert  
+📂 Sharing my learning journey on GitHub  
+📧 Email: ambikam812@gmail.com  
 
-💻 Learning Python daily  
-🌱 Goal: Become a Python expert 
-📚 Sharing my learning journey on GitHub  
-📬 Email: ambikam812@gmail.com  
+🔧 Current Focus
+• Python basics  
+• Verilog HDL projects & digital design fundamentals  
+• Daily GitHub practice  
+• VS Code, Git, GitHub usage  
 
-### 🔧 Current Focus
-- Python basics
-- Daily GitHub practice
-- VS Code, Git, GitHub usage
+🛠️ Tools I Use
+• Python 🐍  
+• Verilog HDL  
+• Git & GitHub  
+• Visual Studio Code  
+• EDA Playground  
 
-### 🛠️ Tools I Use
-- Python 🐍
-- Git & GitHub
-- Visual Studio Code
 
 ---
 
