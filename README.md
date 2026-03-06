@@ -1,22 +1,21 @@
 👋 Hi, I'm Ambika.M
 
 🎓 B.E. in Information Science & Engineering (RVITM, 2nd Year) | Diploma in Electronics & Communication 💻  
-📘 Actively improving Python skills  
-🌱 Goal: Become a Python expert  
-📂 Sharing my learning journey on GitHub  
-📧 Email: ambikam812@gmail.com  
+💻 Learning C++ and Data Structures & Algorithms
+📚 Practicing coding problems daily
+📂 Sharing my learning journey on GitHub
+📧 ambikam812@gmail.com
 
-🔧 Current Focus
-• Python basics  
-• Verilog HDL projects & digital design fundamentals  
-• Daily GitHub practice  
-• VS Code, Git, GitHub usage  
 
-🛠️ Tools I Use
-• Python 🐍  
-• Verilog HDL  
-• Git & GitHub  
-• Visual Studio Code  
+• 🔧 Current Focus
+• Learning C++ and Data Structures & Algorithms
+• Practicing coding problems
+• Sharing programs on GitHub
+
+🛠️ Tools
+• C++
+• Visual Studio Code
+• GitHub (learning) 
 • EDA Playground  
 
 
