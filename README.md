@@ -15,8 +15,9 @@
 🛠️ Tools
 • C++
 • Visual Studio Code
-• GitHub (learning) 
-• EDA Playground  
+• Git (using) GitHub (learning) 
+• EDA Playground 
+
 
 
 ---
