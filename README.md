@@ -1,6 +1,6 @@
 👋 Hi, I'm Ambika.M
 
-🎓 B.E. in Information Science & Engineering (RVITM, 2nd Year) | Diploma in Electronics & Communication 💻  
+🎓 B.E. in Information Science & Engineering (RVITM, 3rd Year) | Diploma in Electronics & Communication 💻  
 💻 Learning C++ and Data Structures & Algorithms
 📚 Practicing coding problems daily
 📂 Sharing my learning journey on GitHub
